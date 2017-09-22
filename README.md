@@ -1,4 +1,4 @@
-# Predicting-Death
+# PredictingDeath
 ORIE 4741 Project
 
 Team Members: Kenneth Lipke (kel89), Charlotte Wang (xw476)
